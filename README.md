@@ -100,7 +100,7 @@ ABOUT US:
 
 Azure Healthbot Functionlity:
 
-![bot1](https://user-images.githubusercontent.com/114159272/208857083-0e18d0d6-d83d-415b-8527-1db3c2a126f9.png
+![bot1](https://user-images.githubusercontent.com/114159272/208857083-0e18d0d6-d83d-415b-8527-1db3c2a126f9.png)
 ![bot2](https://user-images.githubusercontent.com/114159272/208857124-bd5cf171-ae58-444b-a469-ca0772aaa93d.png)
 ![bot3](https://user-images.githubusercontent.com/114159272/208857160-824ee2f1-433d-4926-9570-b1158de5944c.png)
 ![bot4](https://user-images.githubusercontent.com/114159272/208857187-f13be4d2-67f6-48c7-8979-f0d8f1eb8303.png)
