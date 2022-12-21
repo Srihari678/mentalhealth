@@ -97,3 +97,16 @@ SERVICES PAGE;
 ABOUT US:
 
 ![About us](https://user-images.githubusercontent.com/114159272/207238987-ab827e95-a3fe-4f90-85c7-690527a52992.png)
+
+Azure Healthbot Functionlity:
+
+![bot1](https://user-images.githubusercontent.com/114159272/208857083-0e18d0d6-d83d-415b-8527-1db3c2a126f9.png
+![bot2](https://user-images.githubusercontent.com/114159272/208857124-bd5cf171-ae58-444b-a469-ca0772aaa93d.png)
+![bot3](https://user-images.githubusercontent.com/114159272/208857160-824ee2f1-433d-4926-9570-b1158de5944c.png)
+![bot4](https://user-images.githubusercontent.com/114159272/208857187-f13be4d2-67f6-48c7-8979-f0d8f1eb8303.png)
+![bot5](https://user-images.githubusercontent.com/114159272/208857263-c2c82c42-7569-4bab-bf59-a7cb67307ab9.png)
+![bot6](https://user-images.githubusercontent.com/114159272/208857303-496bac82-dfc7-4bc4-90ab-3f31ecbc89cf.png)
+![bot7](https://user-images.githubusercontent.com/114159272/208857334-699046b0-c756-4d1e-a8a7-cef0810a8563.png)
+![bot8](https://user-images.githubusercontent.com/114159272/208857356-5f575c2c-16d3-4aee-8b85-0d9e19daa979.png)
+![bot10](https://user-images.githubusercontent.com/114159272/208857380-8b74ddb4-c64d-47da-8ded-e9f43fb74d0c.png)
+![bot11](https://user-images.githubusercontent.com/114159272/208857404-c39da108-2d68-44ba-a43a-b6f8f189281d.png)
